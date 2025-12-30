@@ -18,7 +18,7 @@ Contrairement aux solutions cloud, MSKstar garde vos données **100% locales** s
 *   **Dérivation de Clé Sécurisée** : Protection contre les attaques par force brute via **PBKDF2-HMAC-SHA256** (600 000 itérations).
 *   **Architecture "Seed-Based"** : Vos clés de chiffrement sont dérivées d'une phrase de récupération (Seed Phrase) de 12 mots, et non directement de votre mot de passe.
 *   **Mode Récupération (Recovery Flow)** : Mot de passe oublié ? Utilisez votre Seed Phrase pour restaurer l'accès sans perdre vos données.
-*   **Base de Données Persistante** : Gestion automatique du fichier `mskstar_vault_v6.db` avec détection intelligente du chemin.
+*   **Base de Données Persistante** : Gestion automatique du fichier `mskstar.db` avec détection intelligente du chemin.
 *   **Bilingue** : Interface complète disponible en **Français** et **Anglais** (sélection au démarrage).
 
 ### Installation et Utilisation
@@ -58,7 +58,7 @@ Unlike cloud solutions, MSKstar keeps your data **100% local** on your machine, 
 *   **Secure Key Derivation**: Protection against brute-force attacks via **PBKDF2-HMAC-SHA256** (600,000 iterations).
 *   **Seed-Based Architecture**: Your encryption keys are derived from a 12-word recovery Seed Phrase, not directly from your password.
 *   **Recovery Flow**: Forgot your password? Use your Seed Phrase to restore access without losing your data.
-*   **Persistent Database**: Automatic management of the `mskstar_vault_v6.db` file with intelligent path detection.
+*   **Persistent Database**: Automatic management of the `mskstar.db` file with intelligent path detection.
 *   **Bilingual**: Full interface available in **French** and **English** (selectable at startup).
 
 ### Installation & Usage
