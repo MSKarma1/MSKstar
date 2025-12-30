@@ -12,7 +12,7 @@
 
 Contrairement aux solutions cloud, MSKstar garde vos données **100% locales** sur votre machine, chiffrées dans une base de données SQLite protégée.
 
-### ✨ Fonctionnalités Principales
+### Fonctionnalités Principales
 
 *   **Chiffrement Robuste** : Utilise l'algorithme **AES-256-GCM** (Galois/Counter Mode) pour le chiffrement des données.
 *   **Dérivation de Clé Sécurisée** : Protection contre les attaques par force brute via **PBKDF2-HMAC-SHA256** (600 000 itérations).
