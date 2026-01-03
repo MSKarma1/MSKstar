@@ -34,9 +34,11 @@ cd MSKstar
 pip install -r requirements.txt
 ```
 
-
 #### 3. Démarrage
 Lancez simplement le script principal :
+```bash
+MSKSTARCLI.bat
+```
 
 ### Guide de Démarrage Rapide
 
@@ -77,7 +79,9 @@ pip install -r requirements.txt
 
 #### 3. Start
 Simply run the main script:
-
+```bash
+MSKSTARCLI.bat
+```
 
 ### Quick Start Guide
 
