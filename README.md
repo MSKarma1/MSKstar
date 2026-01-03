@@ -38,7 +38,7 @@ Sur Mac :
 git clone https://github.com/MSKarma1/MSKstar.git
 cd MSKstar
 chmod +x MSKSTARCLI.py
-./MSKSTARCLI.py
+./MSKSTARCLI.sh
 ```
 
 #### 3. Démarrage
@@ -88,7 +88,7 @@ On Mac :
 git clone https://github.com/MSKarma1/MSKstar.git
 cd MSKstar
 chmod +x MSKSTARCLI.py
-./MSKSTARCLI.py
+./MSKSTARCLI.sh
 ```
 
 #### 3. Start
