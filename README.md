@@ -28,14 +28,15 @@ Vous devez avoir **Python 3.8** (ou plus récent) installé sur votre machine.
 
 #### 2. Installation
 Clonez ce dépôt et installez les dépendances nécessaires :
+```bash
 git clone https://github.com/MSKarma1/MSKstar.git
 cd MSKstar
 pip install -r requirements.txt
+```
 
 
 #### 3. Démarrage
 Lancez simplement le script principal :
-
 
 ### Guide de Démarrage Rapide
 
@@ -68,9 +69,11 @@ You need **Python 3.8** (or newer) installed on your machine.
 
 #### 2. Installation
 Clone this repository and install the required dependencies:
+```bash
 git clone https://github.com/MSKarma1/MSKstar.git
 cd MSKstar
 pip install -r requirements.txt
+```
 
 #### 3. Start
 Simply run the main script:
