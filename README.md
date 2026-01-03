@@ -33,6 +33,13 @@ git clone https://github.com/MSKarma1/MSKstar.git
 cd MSKstar
 pip install -r requirements.txt
 ```
+Sur Mac :
+```bash
+git clone https://github.com/MSKarma1/MSKstar.git
+cd MSKstar
+chmod +x MSKSTARCLI.py
+./MSKSTARCLI.py
+```
 
 #### 3. Démarrage
 Lancez simplement le script principal :
@@ -75,6 +82,13 @@ Clone this repository and install the required dependencies:
 git clone https://github.com/MSKarma1/MSKstar.git
 cd MSKstar
 pip install -r requirements.txt
+```
+On Mac :
+```bash
+git clone https://github.com/MSKarma1/MSKstar.git
+cd MSKstar
+chmod +x MSKSTARCLI.py
+./MSKSTARCLI.py
 ```
 
 #### 3. Start
