@@ -37,7 +37,7 @@ Sur Mac :
 ```bash
 git clone https://github.com/MSKarma1/MSKstar.git
 cd MSKstar
-chmod +x MSKSTARCLI.py
+chmod +x MSKSTARCLI.sh
 ./MSKSTARCLI.sh
 ```
 
@@ -87,7 +87,7 @@ On Mac :
 ```bash
 git clone https://github.com/MSKarma1/MSKstar.git
 cd MSKstar
-chmod +x MSKSTARCLI.py
+chmod +x MSKSTARCLI.sh
 ./MSKSTARCLI.sh
 ```
 
