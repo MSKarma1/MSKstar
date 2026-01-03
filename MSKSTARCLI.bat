@@ -17,7 +17,6 @@ if exist "%~dp0requirements.txt" (
     echo requirements.txt non trouvé.
 )
 
-:: Lancer le script Python
 echo Lancement de MSKstar...
 python "%~dp0MSKSTARCLI.py"
 
